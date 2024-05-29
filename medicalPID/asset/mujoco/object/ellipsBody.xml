@@ -1,0 +1,8 @@
+<mujocoinclude>
+    <worldbody>
+        <body name="ellipsoid_body" pos="0.8 0 0.11">
+            <!--<joint name="ellipsoid_joint" type="hinge" axis="1 0 0"/>-->
+            <geom type="ellipsoid" size="0.15 0.1 0.05" rgba="1 0 0 1"/>
+        </body>
+    </worldbody>
+</mujocoinclude>
