@@ -1,0 +1,15 @@
+Thu Aug 10 13:53:38 2023
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 16.6100.
+
+Sun Mar  3 11:55:24 2024
+WARNING: mju_openResource: unknown file 'c:\Users\goodv\Downloads\yet-another-mujoco-tutorial-v3-main\yet-another-mujoco-tutorial-v3-main\model\panda\franka_panda.xml'
+
+Sun Mar  3 13:42:26 2024
+WARNING: mju_openResource: unknown file 'c:\Users\goodv\Downloads\yet-another-mujoco-tutorial-v3-main\yet-another-mujoco-tutorial-v3-main\asset\ur5e\../object/floor_sky.xml'
+
+Sat Mar 16 14:44:07 2024
+WARNING: mju_openResource: unknown file 'c:\Users\patri\Documents\GitHub\SemesterProject-ForceController\asset\ur5e\../object/obj_test.xml'
+
+Sat Apr  6 14:51:53 2024
+WARNING: mju_openResource: unknown file 'c:\Users\patri\Documents\GitHub\SemesterProject-ForceController\asset\ur5e\../object/polish_object_simplified.xml'
+
